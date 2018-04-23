@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="vancl"
+  id="myeclipse.1473662640836"
+  context-root="/vancl"
+  j2ee-spec="5.0"
+  archive="vancl.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

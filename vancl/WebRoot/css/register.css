@@ -1,0 +1,93 @@
+#main{
+    width: 100%;
+    height: 100%;
+}
+#main-content{
+    width: 1200px;
+    height: 1000%;
+    margin: 0px auto;
+}
+a{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+}
+p{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    width: 1200px;
+    height: 55px;
+    position: relative;
+    border-bottom: 1px solid black;
+}
+header a{
+    position: absolute;
+    right: 5px;
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    bottom: 10px;
+}
+section{
+    width: 1200px;
+    height: 550px;
+    position: relative;
+}
+#left{
+    position: absolute;
+    left: 180px;
+    top: 110px;
+}
+#right{
+    position: absolute;
+    right: 100px;
+    top: 60px;
+    width:400px;
+    height: 450px;
+}
+#right p{
+    font-size: 24px;
+    font-weight: bold;
+    color: #A2A2A2;
+    margin: 10px 0px;
+}
+#right p span{
+    font-size: 14px;
+    text-align: right;
+}
+#right p span a{
+    color: #B42025;
+}
+#right input[type='text']{
+    width: 400px;
+    height: 45px;
+    outline: none;
+    border: 1px solid gray;
+}
+#server{
+    color: #B42025;
+    text-decoration: none;
+}
+#server:hover{
+    text-decoration: underline;
+}
+#right input[type='submit']{
+    width: 400px;
+    height: 45px;
+    outline: none;
+    background-color: #9A9A9A;
+    color: white;
+    font-size: 16px;
+    border: 1px solid gray;
+}
+footer{
+    width: 1200px;
+    text-align: center;
+}
+footer p{
+    color: black;
+    font-size: 12px;
+    margin: 10px 0px;
+}
